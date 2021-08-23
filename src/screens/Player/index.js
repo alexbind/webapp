@@ -60,8 +60,8 @@ export function Player() {
         <View style={styles.recently_played_list}>
           <Image source={{ uri: 'https://cdns-images.dzcdn.net/images/cover/d2ab6b9d9f360265dfea5f7ffc143fb3/56x56-000000-80-0-0.jpg' }} style={styles.recently_played_image} />
           <View style={styles.recently_played_list_text}>
-            <Text style={styles.recently_played_list_text1}> #01 - Start With SEO </Text>
-            <Text style={styles.recently_played_list_text2}> By Setup Cast - 15: 35 </Text>
+            <Text style={styles.recently_played_list_text1}> #01 - Another Brick in the Wall, Pt. 2 </Text>
+            <Text style={styles.recently_played_list_text2}> The Wall - 15: 35 </Text>
           </View>
           <View>
             <ProgressCircle
